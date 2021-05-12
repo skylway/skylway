@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 - 😄 Contributing to TarsGo Project and Studying cloud native
 - 📫 How to reach me: www.skylway.com
 
-
+<!--
 <p align="center">
   <a href="https://github.com/skylway">
     <img src="https://github-readme-stats.vercel.app/api?username=skylway&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
   </a>
 </p>
+-->
 
 ### 🔧 Technologies & Tools 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
