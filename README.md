@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🚀 Ask me about Micro-service or Golang or PHP.
+- 🚀 Ask me about Micro-service or Server Architecture or HA
+- 🤔 Experenced at PHP and Goland
 - 😄 Contributing to TarsGo Project and Studying cloud native
 - 📫 How to reach me: www.skylway.com
 
