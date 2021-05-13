@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🚀 Ask me about Micro-service or Server Architecture or HA
-- 🤔 Experenced at PHP and Goland
+- 🤔 Experenced at Goland and PHP 
 - 😄 Contributing to TarsGo Project and Studying cloud native
 - 📫 How to reach me: www.skylway.com
 
